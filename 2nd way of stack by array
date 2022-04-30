@@ -53,3 +53,25 @@ int main(){
 	
 	return 0;
 }
+
+
+output for the code
+
+Initializing the stack with size 10
+
+Pushing elements into the stack
+1
+2
+3
+
+Displaying elements of the stack -
+3 2 1 
+
+The top of the stack = 3
+
+Pop the top of the stack = 3
+
+Pop the top of the stack = 2
+
+Displaying elements of the stack -
+1 
